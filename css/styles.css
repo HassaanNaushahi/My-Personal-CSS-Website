@@ -32,16 +32,20 @@ a{
   position: relative; /*Because it is out main parent(outtest div)*/
 }
 
-.middle-container{
-
-}
-
 .bottom-container{
   background-color: #66BFBF;
   margin-top: 50px;
   line-height: 2;
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.my-img{
+  margin: 100px auto 50px auto;
+}
+
+.mid-subtitle{
+  padding-top: 30px;
 }
 
 .cloud1-img{
